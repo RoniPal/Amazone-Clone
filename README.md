@@ -1,0 +1,1 @@
+A basic Amazon landing page clone designed with HTML, CSS, and JavaScript, offering a static, non-responsive replica of Amazon's homepage. This project showcases a similar layout, including navigation menus, product sections, and promotional banners, giving users a glimpse of the Amazon shopping experience in a simplified form.
